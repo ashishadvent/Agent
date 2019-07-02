@@ -1,0 +1,29 @@
+1505092228133	geckodriver	INFO	geckodriver 0.18.0
+1505092228142	geckodriver	INFO	Listening on 127.0.0.1:62493
+1505092230181	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1505092231561	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1505092232431	Marionette	INFO	Enabled via --marionette
+1505092237407	Marionette	INFO	Listening on port 62499
+1505092237425	Marionette	INFO	Listening on port 62499
+1505092237716	Marionette	WARN	TLS certificate errors will be ignored for this session
+1505092237780	Marionette	DEBUG	loaded listener.js
+1505092237902	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1505092238045	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1505092238045	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1505092238538	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://gem-adfs.gem.com/adfs/ls/IdpInitiatedSignon.aspx"
+1505092238549	Marionette	DEBUG	Received DOM event "pageshow" for "https://gem-adfs.gem.com/adfs/ls/IdpInitiatedSignon.aspx"
+1505092242586	Marionette	DEBUG	Received DOM event "beforeunload" for "https://gem-adfs.gem.com/adfs/ls/IdpInitiatedSignon.aspx"
+1505092243540	Marionette	DEBUG	Received DOM event "pagehide" for "https://gem-adfs.gem.com/adfs/ls/IdpInitiatedSignon.aspx"
+1505092243540	Marionette	DEBUG	Received DOM event "unload" for "https://gem-adfs.gem.com/adfs/ls/IdpInitiatedSignon.aspx"
+1505092243737	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://gem-adfs.gem.com/adfs/ls/IdpInitiatedSignon.aspx?client-request-id=8b5fc861-76a2-4778-7f01-0080000000f1"
+1505092243740	Marionette	DEBUG	Received DOM event "pageshow" for "https://gem-adfs.gem.com/adfs/ls/IdpInitiatedSignon.aspx?client-request-id=8b5fc861-76a2-4778-7f01-0080000000f1"
+1505092247004	Marionette	DEBUG	Received DOM event "beforeunload" for "https://gem-adfs.gem.com/adfs/ls/IdpInitiatedSignon.aspx?client-request-id=8b5fc861-76a2-4778-7f01-0080000000f1"
+1505092250472	Marionette	DEBUG	Received DOM event "pagehide" for "https://gem-adfs.gem.com/adfs/ls/IdpInitiatedSignon.aspx?client-request-id=8b5fc861-76a2-4778-7f01-0080000000f1"
+1505092250472	Marionette	DEBUG	Received DOM event "unload" for "https://gem-adfs.gem.com/adfs/ls/IdpInitiatedSignon.aspx?client-request-id=8b5fc861-76a2-4778-7f01-0080000000f1"
+1505092252880	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://gem-adfs.gem.com/adfs/ls/IdpInitiatedSignon.aspx?client-request-id=8b5fc861-76a2-4778-7f01-0080000000f1"
+1505092252883	Marionette	DEBUG	Received DOM event "pageshow" for "https://gem-adfs.gem.com/adfs/ls/IdpInitiatedSignon.aspx?client-request-id=8b5fc861-76a2-4778-7f01-0080000000f1"
+1505092255051	Marionette	DEBUG	Received DOM event "beforeunload" for "https://gem-adfs.gem.com/adfs/ls/IdpInitiatedSignon.aspx?client-request-id=8b5fc861-76a2-4778-7f01-0080000000f1"
+1505092255273	Marionette	DEBUG	Received DOM event "pagehide" for "https://gem-adfs.gem.com/adfs/ls/IdpInitiatedSignon.aspx?client-request-id=8b5fc861-76a2-4778-7f01-0080000000f1"
+1505092255275	Marionette	DEBUG	Received DOM event "unload" for "https://gem-adfs.gem.com/adfs/ls/IdpInitiatedSignon.aspx?client-request-id=8b5fc861-76a2-4778-7f01-0080000000f1"
+1505092255336	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://gem-adfs.gem.com/adfs/ls/idpinitiatedsignon?client-request-id=8b5fc861-76a2-4778-7f01-0080000000f1"
+1505092255343	Marionette	DEBUG	Received DOM event "pageshow" for "https://gem-adfs.gem.com/adfs/ls/idpinitiatedsignon?client-request-id=8b5fc861-76a2-4778-7f01-0080000000f1"

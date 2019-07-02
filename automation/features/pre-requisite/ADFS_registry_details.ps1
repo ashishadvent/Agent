@@ -1,0 +1,1 @@
+Get-ItemProperty ‘HKLM:\SOFTWARE\SafeNet\ADFS’
