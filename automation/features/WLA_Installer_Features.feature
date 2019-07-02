@@ -2,8 +2,8 @@ Feature: WLA agent Installer test set
 
   
   Scenario: Install WLA to default location
-     #Given dotnet pre-requisite check
-      #when install WLA agent at default location
+      Given dotnet pre-requisite check
+      when install WLA agent at default location
       when WLA agent is installed at default location
       then Enable WLA Agent at default location
       then Primary SAS Configuration at default location
